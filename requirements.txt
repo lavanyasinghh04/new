@@ -1,0 +1,7 @@
+# List of Python packages needed to run the app
+flask==2.0.1
+werkzeug==2.0.3
+gunicorn==20.1.0
+tensorflow==2.19.0
+keras==3.10.0
+pillow==9.5.0 

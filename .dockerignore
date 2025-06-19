@@ -1,0 +1,46 @@
+# Git
+.git
+.gitignore
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+
+# Data and model directories
+data/
+*.h5
+!cats_vs_dogs_model.h5
+!cats_vs_dogs_mobilenetv2.h5
+
+# Logs
+*.log
+
+# Docker
+Dockerfile
+.dockerignore 
